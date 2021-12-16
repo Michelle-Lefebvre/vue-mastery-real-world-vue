@@ -31,10 +31,5 @@ export default new Router({
       component: User,
       props: true,
     },
-    // {
-    //   path: '/:catchAll(.*)',
-    //   component: NotFoundComponent,
-    //   name: 'NotFound',
-    // },
   ],
 })

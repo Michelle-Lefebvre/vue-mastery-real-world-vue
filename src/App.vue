@@ -12,6 +12,7 @@ export default {
   },
 }
 </script>
+
 <style>
 html {
   -webkit-text-size-adjust: 100%;
