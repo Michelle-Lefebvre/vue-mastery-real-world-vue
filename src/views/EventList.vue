@@ -1,8 +1,7 @@
 <template>
   <div>
     <h1>Event Listing</h1>
-    <EventCard></EventCard>
-    <BaseIcon name="users" />
+    <EventCard />
   </div>
 </template>
 <script>
